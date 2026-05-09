@@ -11,8 +11,7 @@ Collection of beginner-friendly data analysis projects using Python.
 
 ## Projects Included
 1. Zomato Data Analysis
-2. Airbnb Data Analysis
-3. Blinkit Sales Analysis
-4. Telecom Customer Analysis
-5. Website Traffic Analysis
-6. Supermarket Sales Analysis
+2. Blinkit Sales Analysis
+3. Telecom Customer Analysis
+4. Website Traffic Analysis
+5. Supermarket Sales Analysis
